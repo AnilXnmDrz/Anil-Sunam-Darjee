@@ -9,6 +9,7 @@ def sub(a,b):
 
 def mul(a,b):
     return a*b
+    # stash test + apply
 
 
 def div(a,b):
